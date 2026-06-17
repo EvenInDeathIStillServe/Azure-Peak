@@ -8,6 +8,7 @@
 	block2add = FOV_BEHIND
 	smeltresult = /obj/item/ingot/steel
 	smelt_bar_num = 2
+	worn_offsets = list("x" = 0, "y" = 5)
 
 /obj/item/clothing/head/roguetown/helmet/heavy/astratan/attackby(obj/item/W, mob/living/user, params)
 	..()
